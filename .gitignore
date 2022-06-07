@@ -1,0 +1,7 @@
+__pycache__/
+**.json
+**.txt
+**.pem
+**.wav
+**test/
+**.ipynb_checkpoints
